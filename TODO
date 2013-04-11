@@ -1,0 +1,8 @@
+* Add DirectX animation support developed by Bjarke Viksoe (bjarke@viksoe.dk)
+* Add hardcore MenuStrip, Menu, MenuElement developed by achellies
+* Add NumericUpDown
+* Add RadioBox
+* Add ToggleButton
+* Add SwitchButton
+* Add AutoComplete for Edit
+* Fix CComboUI fail to inherit Window`s defaultfontcolor
